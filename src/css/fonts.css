@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Schulbuch';
+    src: url(../assets/fonts/SchulbuchNordNormal.ttf),
+         url(../assets/fonts/SchulbuchNordNormal.woff),
+         url(../assets/fonts/SchulbuchNordNormal.woff2);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Schulbuch';
+    src: url(../assets/fonts/SchulbuchNordBold.ttf),
+         url(../assets/fonts/SchulbuchNordBold.woff),
+         url(../assets/fonts/SchulbuchNordBold.woff2);
+    font-weight: bold;
+}
